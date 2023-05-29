@@ -1,0 +1,29 @@
+.feature-icon{
+    width: 200px;
+    
+}
+.single-card{
+    background-color: rgb(250, 250, 250);
+    width: 600px;
+    margin: 30px;
+    padding: 30px;
+    justify-content: center;
+    border: 1px solid rgb(227, 224, 224);
+    border-radius: 5px;
+}
+.single-card:hover{
+    background-color: aliceblue;
+}
+.btn-1{
+    border: 2px solid blueviolet;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.view-btn{
+    background-color: rgba(170, 161, 239, 0.97);
+    color: azure;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}

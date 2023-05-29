@@ -1,0 +1,28 @@
+.btn{
+    background-color: rgba(170, 161, 239, 0.97);
+    color: azure;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    
+    
+}
+.seeall-btn{
+    
+    text-align: center;
+    padding: 20px;
+}
+.feature-cart {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1px;
+    justify-content: baseline;
+    margin-left: 100px;
+    margin-left: 100px;
+    
+   
+    
+   
+  }
